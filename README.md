@@ -1,6 +1,6 @@
-# Matchwith Friends Trial — public information site
+# Matchwith — public information site
 
-Static GitHub Pages site for privacy and support. The iPhone display name is Discovery.
+Static GitHub Pages site for privacy and support. The iPhone display name is Matchwith.
 
 Only these reviewed website files belong in this repository. Do not add app source, participant data, reports, credentials, database configuration or private connection files.
 
